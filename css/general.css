@@ -1,0 +1,11 @@
+.section1{
+	padding:15%;
+}
+
+.conversacion{
+	height:200px;
+	border:1px solid #ebebeb;
+	padding:12px;
+	border-radius: 5px;
+	overflow-x:hidden; 
+}
